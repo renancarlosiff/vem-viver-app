@@ -1,12 +1,18 @@
 {
   "expo": {
     "name": "Vem Viver",
-    "slug": "vem-viver",
+    "slug": "vem-viver-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+    "owner": "renanrcks-team",
     "android": {
       "package": "br.com.vemviver.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "184cddb0-c26c-4bac-8682-dd85112324b6"
+      }
     }
   }
 }
