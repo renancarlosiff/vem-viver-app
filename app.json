@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Vem Viver",
+    "slug": "vem-viver",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "br.com.vemviver.app"
+    }
+  }
+}
